@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header animado via Capsule Render (type=wave corrigido) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,20&height=220&section=header&text=Renan%20Pagliai&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Web%20%E2%80%A2%20Front-end%20e%20UI%2FUX&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header Renan Pagliai" />
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,15,24&height=180&section=header&text=Renan%20Pagliai&fontSize=38&fontAlignY=42&desc=Desenvolvedor%20Web%20%E2%80%A2%20Front-end%20e%20UI%2FUX&descSize=16&descAlignY=64" width="100%" alt="Header" />
 
   <!-- Efeito de digitação com README Typing SVG (caracteres 100% codificados) -->
   <a href="https://git.io/typing-svg">
