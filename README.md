@@ -25,14 +25,16 @@
   </p>
 
 </div>
----
+
 
 ### 🚀 Sobre Mim
 
 Desenvolvedor focado na construção de experiências digitais completas — desde a concepção visual até a entrega de código limpo, reativo e performático.
 
 * 🌐 **Foco atual:** Criação de landing pages, portfólios autorais, websites corporativos e **PWAs**.
+
 * 🎨 **Design & Código:** Interfaces orientadas à usabilidade, micro-interações fluidas e tipografia bem ajustada.
+
 * ⚡ **Práticas:** Desenvolvimento modular, componentes reutilizáveis e deploy contínuo.
 
 ---
@@ -86,7 +88,6 @@ Desenvolvedor focado na construção de experiências digitais completas — des
 
 ---
 
-### 🐍 Snake Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mrenanpx/mrenanpx/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
