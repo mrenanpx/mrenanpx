@@ -1,27 +1,19 @@
 <div align="center">
 
-  <!-- Header Dinâmico & Ondulado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=240&section=header&text=Renan%20Pagliai&fontSize=44&fontAlignY=36&desc=Desenvolvedor%20Web%20%E2%80%A2%20Front-end%20%26%20PWAs&descFontSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Header Renan Pagliai" />
+  <!-- Header animado via Capsule Render -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Renan%20Pagliai&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20Front-end%20%26%20UI/UX&descFontSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header Renan Pagliai" />
 
-  <!-- Efeito de Digitação Neon -->
+  <!-- Efeito de digitação com README Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Engenharia+de+interfaces+modernas;Cria%C3%A7%C3%A3o+de+PWAs+rápidos+e+reativos;Design+intuitivo+com+foco+em+usabilidade;Do+vetor+ao+c%C3%B3digo+com+alta+precis%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Desenvolvendo+websites+modernos;Criando+Progressive+Web+Apps+(PWAs);Design+de+interfaces+rápidas+e+intuitivas;Explorando+novas+tecnologias+web" alt="Typing SVG" />
   </a>
 
-  <br /><br />
-
-  <!-- Botões de Ação com Cantos Arredondados e Sombras -->
   <p align="center">
     <a href="https://mpx.art.br" target="_blank">
-      <img src="https://img.shields.io/badge/Acessar_Portfólio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117&labelColor=0D1117" style="border-radius: 12px;" alt="Portfólio MPX" />
+      <img src="https://img.shields.io/badge/Portfólio-mpx.art.br-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge" />
     </a>
-    &nbsp;
     <a href="mailto:contato@mpx.art.br">
-      <img src="https://img.shields.io/badge/Enviar_Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" style="border-radius: 12px;" alt="Contato Email" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/mrenanpx?tab=repositories">
-      <img src="https://img.shields.io/badge/Ver_Projetos-7928CA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" style="border-radius: 12px;" alt="Repositórios" />
+      <img src="https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
   </p>
 
@@ -29,12 +21,74 @@
 
 ---
 
-### ⚡ Sobre o meu trabalho
+### 🚀 Sobre Mim
 
-```javascript
-const developer = {
-  nome: "Renan Pagliai",
-  atuacao: ["Web Development", "UI/UX Design", "PWAs"],
-  foco: "Performance, tipografia refinada e código limpo",
-  arquitetura: ["Component-Driven", "Responsive First", "Modern React"]
-};
+Desenvolvedor focado na construção de experiências digitais completas — desde a concepção visual até a entrega de código limpo, reativo e performático.
+
+* 🌐 **Foco atual:** Criação de landing pages, portfólios autorais, websites corporativos e **PWAs**.
+* 🎨 **Design & Código:** Interfaces orientadas à usabilidade, micro-interações fluidas e tipografia bem ajustada.
+* ⚡ **Práticas:** Desenvolvimento modular, componentes reutilizáveis e deploy contínuo.
+
+---
+
+### 🛠️ Stack & Tecnologias
+
+<div align="center">
+
+  <!-- Core Front-end & Frameworks -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
+
+  <br />
+
+  <!-- Backend, Cloud & Ferramentas -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+  <br />
+
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Affinity_Designer-1B7287?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" />
+  <img src="https://img.shields.io/badge/Affinity_Photo-2C5E7A?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Affinity Photo" />
+
+</div>
+
+---
+
+### 📊 Estatísticas & Atividade
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrenanpx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61dafb&icon_color=00e5ff" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrenanpx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61dafb" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Sequência de Commits (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrenanpx&theme=tokyonight&hide_border=true&background=0d1117&stroke=000&ring=61dafb&fire=00e5ff&currStreakLabel=61dafb" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mrenanpx/mrenanpx/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+<!-- Rodapé animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,0&height=100&section=footer" width="100%" alt="Footer" />
+</div>
