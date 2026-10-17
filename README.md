@@ -1,12 +1,13 @@
 <div align="center">
+  <br />
+  <h1>👋 Olá, eu sou o <span style="color: #00E5FF;">Renan Pagliai</span></h1>
+  <p><strong>Desenvolvedor Web</strong> focado em Front-end, PWAs e Design de Interfaces</p>
 
-  <!-- Header animado via Capsule Render (type=wave corrigido) -->
- <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,15,24&height=180&section=header&text=Renan%20Pagliai&fontSize=38&fontAlignY=42&desc=Desenvolvedor%20Web%20%E2%80%A2%20Front-end%20e%20UI%2FUX&descSize=16&descAlignY=64" width="100%" alt="Header" />
-
-  <!-- Efeito de digitação com README Typing SVG (caracteres 100% codificados) -->
+  <!-- Efeito de digitação logo abaixo do título -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Desenvolvendo+websites+modernos;Criando+Progressive+Web+Apps;Design+de+interfaces+fluidas+e+intuitivas;Explorando+novas+tecnologias+web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=Desenvolvendo+websites+modernos;Criando+Progressive+Web+Apps;Design+de+interfaces+fluidas+e+intuitivas;Explorando+novas+tecnologias+web" alt="Typing SVG" />
   </a>
+  <br /><br />
 
   <!-- Botões de Ação com cantos arredondados -->
   <p align="center">
