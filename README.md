@@ -1,24 +1,29 @@
 <div align="center">
 
-  <!-- Header animado via Capsule Render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=220&section=header&text=Renan%20Pagliai&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20Front-end%20%26%20UI/UX&descFontSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header Renan Pagliai" />
+  <!-- Header animado via Capsule Render (type=wave corrigido) -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,20&height=220&section=header&text=Renan%20Pagliai&fontSize=42&fontAlignY=38&desc=Desenvolvedor%20Web%20%E2%80%A2%20Front-end%20e%20UI%2FUX&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header Renan Pagliai" />
 
-  <!-- Efeito de digitação com README Typing SVG -->
+  <!-- Efeito de digitação com README Typing SVG (caracteres 100% codificados) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Desenvolvendo+websites+modernos;Criando+Progressive+Web+Apps+(PWAs);Design+de+interfaces+rápidas+e+intuitivas;Explorando+novas+tecnologias+web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=520&lines=Desenvolvendo+websites+modernos;Criando+Progressive+Web+Apps;Design+de+interfaces+fluidas+e+intuitivas;Explorando+novas+tecnologias+web" alt="Typing SVG" />
   </a>
 
+  <!-- Botões de Ação com cantos arredondados -->
   <p align="center">
     <a href="https://mpx.art.br" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-mpx.art.br-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio Badge" />
+      <img src="https://img.shields.io/badge/Portfólio-mpx.art.br-00E5FF?style=flat&logo=googlechrome&logoColor=black&labelColor=161b22" height="28" alt="Portfolio Badge" />
     </a>
+    &nbsp;
     <a href="mailto:contato@mpx.art.br">
-      <img src="https://img.shields.io/badge/Contato-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+      <img src="https://img.shields.io/badge/Contato-Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=161b22" height="28" alt="Email Badge" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/mrenanpx?tab=repositories">
+      <img src="https://img.shields.io/badge/GitHub-Repositórios-7928CA?style=flat&logo=github&logoColor=white&labelColor=161b22" height="28" alt="Projetos Badge" />
     </a>
   </p>
 
 </div>
-
 ---
 
 ### 🚀 Sobre Mim
