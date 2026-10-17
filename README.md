@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>👋 Olá, eu sou o <span style="color: #00E5FF;">Renan Pagliai</span></h1>
+  <h1>👋 Olá, eu sou o <span style="color: #00E5FF;"></span></h1>
   <p><strong>Desenvolvedor Web</strong> focado em Front-end, PWAs e Design de Interfaces</p>
 
   <!-- Efeito de digitação logo abaixo do título -->
