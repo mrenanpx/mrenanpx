@@ -62,7 +62,8 @@ Desenvolvedor focado na construção de experiências digitais completas — des
 
   <!-- Design -->
   <img src="https://img.shields.io/badge/Affinity_Designer-1B7287?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" />
-  <img src="https://img.shields.io/badge/adobe_Illustrator-2C5E7A?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/illustrator-2C5E7A?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/CorelDraw-2C5E7A?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="CorelDraw" />
 
 </div>
 
