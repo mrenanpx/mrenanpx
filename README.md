@@ -9,7 +9,7 @@
   </a>
   <br /><br />
 
-  <!-- Botões de Ação com cantos arredondados -->
+  <!-- Botões de Ação -->
   <p align="center">
     <a href="https://mpx.art.br" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-mpx.art.br-00E5FF?style=flat&logo=googlechrome&logoColor=black&labelColor=161b22" height="28" alt="Portfolio Badge" />
@@ -96,7 +96,4 @@ Desenvolvedor focado na construção de experiências digitais completas — des
 
 ---
 
-<!-- Rodapé animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,0&height=100&section=footer" width="100%" alt="Footer" />
-</div>
+
